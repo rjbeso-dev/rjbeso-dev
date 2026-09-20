@@ -1,6 +1,6 @@
 # Ralph Javen Beso
 
-Full-stack & AI automation developer — React · Node.js · PostgreSQL · n8n · Claude API.
+AI Product Specialist
 
 I build AI workflows that actually get adopted: defensive parsing, rate-limit handling, confidence-threshold fallbacks — the unglamorous engineering that separates production systems from demos.
 
